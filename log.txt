@@ -1,0 +1,3 @@
+[2024-05-28 19:35:18] [DEBUG] Mensagem de debug
+[2024-05-28 19:35:18] [WARNING] Aviso: Algo pode estar errado
+[2024-05-28 19:35:18] [ERROR] Erro: Algo deu errado
